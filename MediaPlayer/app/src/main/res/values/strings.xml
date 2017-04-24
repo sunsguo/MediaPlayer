@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">在线音乐播放器</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_word">Hello Word!</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
